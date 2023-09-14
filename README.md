@@ -21,3 +21,9 @@ This is a simple React application that demonstrates CRUD (Create, Read, Update,
 - **Axios:** A promise-based HTTP client for making API requests.
 
 - **Bootstrap:** A CSS framework for styling the application.
+
+## Contributing
+
+This project is open for contributions! Since it uses a fake API, you can easily contribute by improving existing features or adding new ones. Feel free to fork the repository, make your changes, and submit a pull request.
+
+
